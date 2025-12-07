@@ -27,3 +27,48 @@ session
 start
 session
 start
+session
+start
+session
+start
+session
+start
+session
+start
+session
+start
+session
+start
+session
+start
+session
+listener_add --addr 0.0.0.0:11601 --to 127.0.0.1:11601 --tcp
+listener_list
+listener_add --addr 0.0.0.0:80 --to 127.0.0.1:80 --tcp
+listener_list
+session
+start
+listener_add --addr 0.0.0.0:80 --to 127.0.0.1:80 --tcp
+listener_list
+session
+start
+listener_list
+listener_add --addr 0.0.0.0:9990 --to 127.0.0.1:8105
+listener_list
+listener_add --addr 0.0.0.0:9991 --to 127.0.0.1:8106
+listener_list
+listener_add --addr 0.0.0.0:9993 --to 127.0.0.1:8107
+listener_list
+session
+start
+session
+start
+session
+sessions
+session
+start
+listener_add --addr 0.0.0.0:9990 --to 127.0.0.1:8105
+listener_list
+listener_add --addr 0.0.0.0:9992 --to 127.0.0.1:8106
+listener_list
+session

