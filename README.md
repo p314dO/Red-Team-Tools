@@ -27,8 +27,13 @@
 
 ## 🧗 [PrivilegeEscalation](https://github.com/p314dO/Offensive-Security-Tools/tree/main/PrivilegeEscalation)
 
-- [Linpeas]
+- [Linpeas](https://github.com/p314dO/Offensive-Security-Tools/blob/main/PrivilegeEscalation/Linux/linpeas.sh)
+- [LSE](https://github.com/p314dO/Offensive-Security-Tools/blob/main/PrivilegeEscalation/Linux/lse.sh)
+- [Traitor](https://github.com/p314dO/Offensive-Security-Tools/blob/main/PrivilegeEscalation/Linux/traitor-amd64)
 
 ## 🐚 [Shells](https://github.com/p314dO/Offensive-Security-Tools/tree/main/Shells)
 
+- [PHP Shells](https://github.com/p314dO/Offensive-Security-Tools/tree/main/Shells)
+
 ## 🛠️ [Tools](https://github.com/p314dO/Offensive-Security-Tools/tree/main/Tools)
+
