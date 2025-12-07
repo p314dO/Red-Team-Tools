@@ -22,7 +22,12 @@
 
 ## 🕳️ [Ligolo](https://github.com/p314dO/Offensive-Security-Tools/tree/main/Ligolo)
 
+- [Linux](https://github.com/p314dO/Offensive-Security-Tools/tree/main/Ligolo/Linux)
+- [Windows](https://github.com/p314dO/Offensive-Security-Tools/tree/main/Ligolo/Windows)
+
 ## 🧗 [PrivilegeEscalation](https://github.com/p314dO/Offensive-Security-Tools/tree/main/PrivilegeEscalation)
+
+- [Linpeas]
 
 ## 🐚 [Shells](https://github.com/p314dO/Offensive-Security-Tools/tree/main/Shells)
 
