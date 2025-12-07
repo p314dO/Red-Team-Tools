@@ -37,3 +37,5 @@
 
 ## 🛠️ [Tools](https://github.com/p314dO/Offensive-Security-Tools/tree/main/Tools)
 
+- [Git Dumper](https://github.com/p314dO/Offensive-Security-Tools/tree/main/Tools/git-dumper)
+- [Spose](https://github.com/p314dO/Offensive-Security-Tools/tree/main/Tools/spose)
